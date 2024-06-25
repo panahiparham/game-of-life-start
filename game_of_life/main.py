@@ -17,7 +17,7 @@ board = lib.Board.from_string(
 
 
 def main():
-    for i in range(20):
+    for i in range(5):
         print(board)
         board.evolve()
         time.sleep(0.8)
