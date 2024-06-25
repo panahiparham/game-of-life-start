@@ -1,0 +1,10 @@
+black==24.4.2
+build==1.2.1
+click==8.1.7
+-e git+ssh://git@github.com/szepi1991/game-of-life-start.git@4c912e2432f788c2368ede86d580ab02b8439ef3#egg=game_of_life
+mypy-extensions==1.0.0
+numpy==2.0.0
+packaging==24.1
+pathspec==0.12.1
+platformdirs==4.2.2
+pyproject_hooks==1.1.0
